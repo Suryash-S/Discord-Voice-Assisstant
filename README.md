@@ -1,4 +1,4 @@
-# DiscordSpeechBot
+# DiscorVoiceAssistant
 A voice recognition bot for discord with music commands.
 
 ## Usage
